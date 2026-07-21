@@ -35,8 +35,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=purveya07&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-<img src="./ascii.svg" width="860" alt="ascii portrait"/>
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
