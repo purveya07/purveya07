@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="300">
+<td width="500">
 <img src="./ascii.svg" width="280" alt="ascii portrait"/>
 </td>
 <td valign="top">
