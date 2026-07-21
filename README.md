@@ -1,8 +1,7 @@
-<div align="center">
-<img src="./ascii.svg" width="260" alt="ascii portrait"/>
-   # 💫 About Me:
+
+💫 About Me:
 🔭 I’m currently working on **LiftOS – an AI-powered Gym Management System**<br>🌱 I’m currently learning **Machine Learning, Computer Vision, FastAPI, and Cloud Technologies**<br>👯 I’m looking to collaborate on **AI, Machine Learning, and Full-Stack projects**<br>🤝 I’m looking for help with **scaling AI applications and deploying production-ready ML models**<br>💬 Ask me about **Python, Machine Learning, Firebase, FastAPI, React, and Fitness Tech**<br>⚡ Fun fact: **I love building AI products and can talk about fitness and technology for hours.**
-</div>
+
 
 
 
